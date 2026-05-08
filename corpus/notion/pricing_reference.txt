@@ -1,0 +1,34 @@
+Pricing Reference (last edited by Maya, 2024-03-12)
+
+heads up — this page is the source of truth, anything in old slide decks may be stale.
+
+PRICING TIERS
+
+Discovery — £25,000 — 2 weeks — fixed fee
+Diagnostic — £40,000 — 3 weeks — fixed fee
+Transformation Sprint — £15k/week — 6 week minimum
+Embed — quoted per engagement, typically £8k–£15k/week
+
+Discounts
+- Repeat clients: 10% off Discovery only (does not stack with anything)
+- Multi-stage prepay (Discovery + Diagnostic together): 15% off the combined fee
+- Charity / public benefit orgs: case by case, requires partner approval
+
+Out of scope (extra)
+Industry benchmarking studies — separate proposal, usually £20k–£60k
+Custom training programs — £8k/day for senior partner delivery
+Workshop facilitation only (no full engagement) — £5k/day, 2 day minimum
+
+⚠️ payment terms
+Net-30 for established clients. Net-7 or 50% upfront for new clients under £50k revenue. We had three slow-pay incidents in 2023, two of them new clients, hence the tighter terms.
+
+INTERNAL NOTES (don't share with clients)
+
+The Embed stage is where margin lives. Discovery and Diagnostic are loss-leaders at current pricing — break-even at best after partner time. We've discussed raising Discovery to £35k three times and chickened out three times. Revisit Q4 2024.
+
+Refund policy is a marketing decision more than a financial one. The 14-day window has been triggered exactly twice in 4 years. Both times we refunded without argument. Don't change this.
+
+Currency
+Default is GBP. We bill in USD or EUR for non-UK clients at the spot rate on the day of contract signing, locked for the engagement. Don't try to be clever with FX hedging, partner Mike got us in trouble in 2022.
+
+last review: march 2024 — needs another review by end of Q3 2024

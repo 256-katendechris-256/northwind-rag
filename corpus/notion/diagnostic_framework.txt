@@ -1,0 +1,56 @@
+Diagnostic Framework v3 (Maya, 2023-09-01)
+
+we keep relearning this stuff. writing it down.
+
+THE FOUR DIMENSIONS
+
+1. Strategy Clarity
+   how clear is the path from current state to north star?
+   1 = no shared answer to "why are we here"
+   2 = leadership aligned, rest of org guessing
+   3 = shared narrative, weak link to weekly priorities
+   4 = strategy visible in roadmaps and tradeoffs
+   5 = a junior IC can articulate the strategy unprompted
+
+2. Operating Velocity
+   how fast does the company turn intent into shipped outcomes?
+   measured via: avg cycle time, % of bets shipped per quarter, decision latency
+   1 = months between decision and visible action
+   2 = projects routinely slip past target by >50%
+   3 = roadmap mostly tracks, but blockers stack up
+   4 = decisions land within days, work flows without escalation
+   5 = velocity is a feature; competitors comment on it
+
+3. Team Health
+   morale, retention risk, psychological safety, leadership trust
+   not a happiness metric. a "will the engine seize next quarter" metric.
+   1 = exits are happening or imminent at senior level
+   2 = active disengagement, gallows humor
+   3 = professional but not energised
+   4 = team would defend the company in public
+   5 = waitlist of internal hires wanting to join the team
+
+4. Customer Alignment
+   how well does the org's daily work track to actual customer outcomes?
+   1 = nobody on the team has spoken to a customer in 30 days
+   2 = customer feedback exists but doesn't change roadmap
+   3 = customer voice is heard, often loses to internal politics
+   4 = customer outcomes are reviewed weekly, change priorities
+   5 = product team can predict customer feedback before it lands
+
+THE BELOW-3 RULE
+if any dimension scores below 3, transformation must not start.
+introduced post-Helios-2021. helios scored team health = 2 and we shipped transformation anyway. it failed within 8 weeks. we lost the embed renewal and 60% of the partner relationship.
+
+scoring approach
+each partner scores independently after discovery completes
+scores are reconciled in a 90-min session, not by averaging
+if partners disagree by >1 point, that's a signal worth interrogating, not a number to split
+
+things we've learned the hard way
+- don't show clients the framework before scoring. they will lobby.
+- don't show clients the scores at all. show the implications.
+- the framework is a diagnostic, not a deliverable. don't put it in client decks.
+- a 4 in three dimensions and a 1 in one dimension is more dangerous than three 3s. extreme imbalance is a leading indicator of crisis.
+
+last updated 2023-09-01, will revise after annual review

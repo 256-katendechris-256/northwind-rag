@@ -1,0 +1,35 @@
+Transcript — Interview with Maya Okonkwo, Managing Partner
+Date: 2024-02-03
+Interviewer: Priya
+Topic: pricing decisions, engagement risk, internal disagreements
+
+PRIYA: I want to get your version of how pricing actually gets decided, because the handbook makes it look more deterministic than I think it is.
+
+MAYA: It is and it isn't. The list prices are real. Discovery is twenty-five, Diagnostic is forty, Transformation is fifteen a week. We don't negotiate those down for new clients ever — that's a discipline thing, not a money thing. The minute we discount Discovery for new clients we're saying our methodology is negotiable, and once you say that, you've lost. Where we negotiate is on Embed. Embed pricing is bespoke and that's where the conversations get interesting.
+
+PRIYA: How interesting?
+
+MAYA: Embed can range from £8,000 a week to £15,000 a week depending on what the client needs. If they have a strong internal team and they just need us to coach and review, lower end. If they're rebuilding capability from scratch and we're effectively running things, higher end. The mistake we used to make was pricing Embed by week count. Now we price by capability transfer milestones. If we hit the milestones early, we still bill the full engagement. If we miss them, we extend at no extra cost. That alignment changed everything.
+
+PRIYA: When did that change happen?
+
+MAYA: Late 2022. Before that we were essentially being penalised for working faster. James and I had a fight about it because he wanted to keep weekly billing for predictability. He was right that clients prefer weekly billing for budgeting. I was right that the incentive was wrong. We compromised: we quote in weeks, we bill in weeks, but the contract has a milestone clause that releases us early if we hit them. Almost no client invokes it because they want the full weeks anyway, but it changes how we work.
+
+PRIYA: What about the question of which clients we say no to?
+
+MAYA: We have a written list now. James probably didn't tell you about it. Three categories of automatic no:
+One — the client wants outputs without behavioural change. Just a report. We don't sell reports.
+Two — the budget for Transformation is below £90k. Below that we can't staff it properly and we know it'll fail.
+Three — the engagement is being driven by HR or comms rather than by an operational leader. That's almost always a signal the company is performative, not committed.
+
+PRIYA: Has that list saved you?
+
+MAYA: Twice in the last year. We turned down a £200k engagement last summer because it failed criterion three. They came back six weeks later with a different sponsor — the COO — and we took it. That's the right outcome.
+
+PRIYA: One more — what do you wish was better documented internally?
+
+MAYA: Everything. Honestly. The methodology is in James's head, the pricing logic is in mine, the client history is in Slack threads, and the playbooks are in Notion pages that nobody updates. We've talked about doing a knowledge engineering project for two years. Every time we plan it, a client crisis eats the quarter. If you find a way to make me actually do this, I owe you dinner.
+
+PRIYA: Noted.
+
+[end of recording]

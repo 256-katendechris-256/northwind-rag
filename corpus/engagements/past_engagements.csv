@@ -1,0 +1,11 @@
+engagement_id,client,year,industry,stages,total_fee_gbp,outcome,notes
+NW-2018-001,Riverbend Logistics,2018,Logistics,Discovery+Diagnostic+Transformation,135000,Underperformed,CEO disengaged. Should have exited week 2 of Transformation. See James 2024-01-15 transcript.
+NW-2019-004,Helios Software,2019,SaaS,Discovery+Diagnostic+Transformation,165000,Failed,Team Health scored 2 in Diagnostic; we proceeded anyway. Engagement collapsed week 8. Triggered the Below-3 rule.
+NW-2020-002,Astra Manufacturing,2020,Manufacturing,All four,310000,Successful,Embed extended by 6 weeks at client request. Reference customer.
+NW-2021-007,Mosaic Health,2021,Healthcare,Discovery+Diagnostic,65000,Stopped after Diagnostic,Client lacked budget for Transformation. Strong relationship maintained. Returned 2023.
+NW-2022-003,Quill Publishing,2022,Media,All four,395000,Successful,First engagement using milestone-based Embed pricing. Hit milestones in week 3 of 6. Client renewed.
+NW-2022-009,Bramble Foods,2022,FMCG,Discovery+Diagnostic,65000,Mixed,Diagnostic surfaced governance issues client refused to address. We declined Transformation. Client unhappy.
+NW-2023-001,Mosaic Health (return),2023,Healthcare,Diagnostic+Transformation+Embed,310000,Successful,Returning client; skipped Discovery as agreed; Embed extended.
+NW-2023-005,Tessera Capital,2023,FinServ,All four,485000,Successful,Largest engagement to date. Embed billed at top of range due to capability rebuild.
+NW-2023-011,Vector Robotics,2023,Robotics,Discovery,25000,Stopped after Discovery,Discovery surfaced fundamental product-market issues; client paused operations.
+NW-2024-002,Larkspur Consulting,2024,Consulting,Discovery+Diagnostic+Transformation,295000,In progress,First consulting client; meta-engagement noted.
