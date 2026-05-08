@@ -1,6 +1,4 @@
-# Tuesday morning cheat sheet
-
-For: Set Piece interview, AI engineer role, with Seb.
+# Cheat sheet
 
 These answers are built around the Northwind RAG project you shipped. Each
 answer references something you actually did — not theory. That's the
