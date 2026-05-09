@@ -1,3 +1,4 @@
 .env
 venv/
 CHEATSHEET.md
+chroma_db/
